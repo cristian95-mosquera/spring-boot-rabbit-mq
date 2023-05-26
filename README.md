@@ -1,2 +1,2 @@
 # spring-boot-rabbit-mq
-se crea un productor y un consumidor
+ RabbitMQ con Spring Boot
